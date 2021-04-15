@@ -3,22 +3,22 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
+* **Naam:** `Nikita van Leeuwen`
+* **Klas:** `vid-2B`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+* **Favoriete dier:** `Baby Jaguar`
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
 
-`Beschrijf in het algemeen je concept van je project.`
+`Ik wil iets met kleur en beweging doen. Als de gebruiker beweegt met zijn device (Iphone or Ipad) komt er in sync beweging in het beeld `
 
 ## Features
 
 `Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
 
 ## Onderzoek & inspiratie
-`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
+`Ik heb snel op pinterest iets gezien dat als snel mijn aandacht trok. Ik mijn onderzoek merk ik dat mijn aandacht trekt naar felle kleuren en wat lijnen in een organische vloeiende beweging. Ik heb ook gekeken naar de vormen om de illustratie heen en wat voor stijl mij aanspreekt. Zie link inspiratie; https://nl.pinterest.com/sweetpynikitax/generative-art-ideas/`
 
 ## Voortang
 
