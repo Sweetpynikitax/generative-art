@@ -14,8 +14,9 @@
 `Ik ga met een soort zijde look and feel maken die veel beweging vormen. Waarbij dat getriggerd wordt door een bepaalde user input. Als de gebruiker beweegt met zijn device (Iphone or Ipad) komt er in sync beweging in het beeld. `
 
 ![concept idee1](https://i.pinimg.com/564x/78/c4/0f/78c40f0e7a70fa54e49145751c505087.jpg)
-![concept idee2](https://i.pinimg.com/564x/86/10/57/8610577e50bbef309e22f4df0ffb0184.jpg)
-![concept idee3](https://i.pinimg.com/564x/71/5d/73/715d730084d33810134786c8af91a6e8.jpg)
+![concept idee 2](https://i.pinimg.com/564x/b9/e7/b0/b9e7b0385f7f7c798667d293848d91d1.jpg)
+![concept idee3](https://i.pinimg.com/564x/86/10/57/8610577e50bbef309e22f4df0ffb0184.jpg)
+![concept idee4](https://i.pinimg.com/564x/71/5d/73/715d730084d33810134786c8af91a6e8.jpg)
 
 ## Features
 
