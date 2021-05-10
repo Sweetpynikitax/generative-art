@@ -14,7 +14,7 @@
 `Ik ga met een soort zijde look and feel maken die veel beweging vormen. Waarbij dat getriggerd wordt door een bepaalde user input. Als de gebruiker beweegt met zijn device (Iphone or Ipad) komt er in sync beweging in het beeld. `
 
 ![concept idee1](https://i.pinimg.com/564x/78/c4/0f/78c40f0e7a70fa54e49145751c505087.jpg)
-![concept idee 2](https://i.pinimg.com/564x/b9/e7/b0/b9e7b0385f7f7c798667d293848d91d1.jpg)
+![concept idee 2](https://i.pinimg.com/564x/b9/e7/b0/b9e7b0385f7f7c798667d293848d91d1.jpg30)
 ![concept idee3](https://i.pinimg.com/564x/86/10/57/8610577e50bbef309e22f4df0ffb0184.jpg)
 ![concept idee4](https://i.pinimg.com/564x/71/5d/73/715d730084d33810134786c8af91a6e8.jpg)
 
@@ -38,6 +38,14 @@
 
 ### Week-2
 `Week 2 heb ik onderzoek gedaan en video's bekeken van "The coding Train" Waarbij ik heb meegekeken naar de codes die hij schrijft met p5.js en proberen te begrijpen en toe te passen in mijn eigen project.`
+
+` Ik ben veel gaan googlen naar fluid p5 en flow field p5 en kwam op de volgende sites en video's uit die mij een beetje zullen helpen met mijn project`
+
+![screen 1](file:///Users/nikita/Desktop/Schermafbeelding%202021-05-10%20om%2020.39.47.png)
+
+* `https://sites.google.com/site/artml2018/showcase/project-2`
+* ` https://www.google.com/search?q=liquid+art+p5.js&sxsrf=ALeKk00laSYRmGyUw43f5WyIckuUNRhjIQ:1620662236262&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi69pGnvb_wAhWhIMUKHSwED40Q_AUoAnoECAEQBA&biw=1680&bih=970#imgrc=hJeF4tXUFcLAYM`
+* `https://p5js.org/reference/#/p5/noise`
 
 ### Week-3
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
