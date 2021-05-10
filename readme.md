@@ -46,6 +46,14 @@
 
 ![screen 1](https://github.com/Sweetpynikitax/generative-art/blob/main/Images/Schermafbeelding%202021-05-10%20om%2020.39.47.png?raw=true)
 
+` Er wordt nu telkens een random tekening gemaakt door de computer zelf, door noiseDetail() en angleMode() valt alles in een mooiere lijn. Het komt steeds dichter bij de vorm dat het meest lijkt op mijn concept`
+
+![screen 2](https://github.com/Sweetpynikitax/generative-art/blob/main/Images/Schermafbeelding%202021-05-10%20om%2020.58.37.png?raw=true)
+
+![screen 3](https://github.com/Sweetpynikitax/generative-art/blob/main/Images/Schermafbeelding%202021-05-10%20om%2021.01.24.png?raw=true)
+
+![screen 4](https://github.com/Sweetpynikitax/generative-art/blob/main/Images/Schermafbeelding%202021-05-10%20om%2021.07.30.png?raw=true)
+
 * `https://sites.google.com/site/artml2018/showcase/project-2`
 * ` https://www.google.com/search?q=liquid+art+p5.js&sxsrf=ALeKk00laSYRmGyUw43f5WyIckuUNRhjIQ:1620662236262&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi69pGnvb_wAhWhIMUKHSwED40Q_AUoAnoECAEQBA&biw=1680&bih=970#imgrc=hJeF4tXUFcLAYM`
 * `https://p5js.org/reference/#/p5/noise`
