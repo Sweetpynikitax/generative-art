@@ -44,7 +44,7 @@
 
 ` Ik ben veel gaan googlen naar fluid p5 en flow field p5 en kwam op de volgende sites en video's uit die mij een beetje zullen helpen met mijn project`
 
-![screen 1]((/Users/nikita/Desktop/HVA:CMD/Minor/generative-art/basic_website/Images/Schermafbeelding 2021-05-10 om 20.39.47.png))
+![screen 1](https://github.com/Sweetpynikitax/generative-art/blob/main/Images/Schermafbeelding%202021-05-10%20om%2020.39.47.png?raw=true)
 
 * `https://sites.google.com/site/artml2018/showcase/project-2`
 * ` https://www.google.com/search?q=liquid+art+p5.js&sxsrf=ALeKk00laSYRmGyUw43f5WyIckuUNRhjIQ:1620662236262&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi69pGnvb_wAhWhIMUKHSwED40Q_AUoAnoECAEQBA&biw=1680&bih=970#imgrc=hJeF4tXUFcLAYM`
