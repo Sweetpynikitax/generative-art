@@ -1,6 +1,8 @@
 /* 👇 Start writing your p5.js code here */
 
   
+let mic;
+
 
 
 var points = []
@@ -19,10 +21,12 @@ function setup() {
   createCanvas(windowWidth, windowHeight)
   background(0)
   
+  
   angleMode(DEGREES)
   noiseDetail(1)
 
-  var density = 275;
+
+  var density = 120;
   var space = width/ density
 
   for(var x = 0; x < width; x  += space) {
@@ -30,8 +34,10 @@ function setup() {
       var p = createVector(x+random(-10,10),y+random(-10,10))
       points.push(p)
     }
+
   }
 
+  
   r1= random(255)
   r2= random(255)
   g1= random(255)
@@ -42,11 +48,28 @@ function setup() {
   var paragraph = document.getElementById("h1");
   paragraph.textContent += "Silk Bubble";;
   var paragraph = document.getElementById("p");
-  paragraph.textContent += "Made by Nikita";;
+  paragraph.textContent += "Made by Nikita";
+  var paragraph = document.getElementById("pp");
+  paragraph.textContent += "Play With the arrow keys";
+  var paragraph = document.getElementById("ppp");
+  paragraph.textContent += "Click to save";
+
 
   
 
 }
+function keyPressed(){
+  if(keyCode == UP_ARROW){
+    background (200);
+  } else if(keyCode == DOWN_ARROW){
+    background (0);
+  } else if(keyCode == LEFT_ARROW){
+    background (100);
+  }else if(keyCode == RIGHT_ARROW){
+    background (50);
+  }
+}
+
 
 function draw() {
   noStroke()
@@ -60,7 +83,7 @@ function draw() {
     var alpha = map(dist(width/2,height/2,points[i].x, points[i].y),0,350,400,0)
 
     fill(r,g,b,alpha)
-
+    
 
     var angle = map(noise(points[i].x * mult, points[i].y * mult,),0,1,0,820)
 
@@ -72,6 +95,13 @@ function draw() {
   }
  
 }
+
+
+
+function mouseClicked(){
+  saveCanvas('SilkBubble','png')
+}
+
 
 
 

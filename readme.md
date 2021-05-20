@@ -11,7 +11,9 @@
 
 ## Concept
 
-`Ik ga met een soort zijde look and feel maken die veel beweging vormen. Waarbij dat getriggerd wordt door een bepaalde user input. Als de gebruiker beweegt met zijn device (Iphone or Ipad) komt er in sync beweging in het beeld. `
+`Ik ga met een soort zijde look and feel maken die veel beweging vormen. Waarbij dat getriggerd wordt door een bepaalde user input. Als de gebruiker beweegt met zijn device (Iphone or Ipad) komt er in sync beweging in het beeld.`
+
+`De wens was om met geluid de lijnen te manipuleren, dat ging moeizaam dus het nieuwe idee is door de achtergrond van de visualisatie te manipuleren dat ook de visualisatie zelf manipuleert de kleur en vormen zijn random naar mate de pagina wordt gerefreshed.`
 
 ![concept idee1](https://i.pinimg.com/564x/78/c4/0f/78c40f0e7a70fa54e49145751c505087.jpg)
 
@@ -23,7 +25,7 @@
 
 ## Features
 
-`Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
+`Als je met je arrow keys speelt veranderd de achtergrond en de visualisatie kwa lijnen. Wil je het kunstwerk opslaan kan je erop klikken`
 
 ## Onderzoek & inspiratie
 `Ik heb snel op pinterest iets gezien dat als snel mijn aandacht trok. In mijn onderzoek merk ik dat mijn aandacht snel trekt naar felle kleuren en wat lijnen in een organische vloeiende beweging. Ik heb ook gekeken naar de vormen om de illustratie heen en wat voor stijl mij aanspreekt. Zie link inspiratie; https://nl.pinterest.com/sweetpynikitax/generative-art-ideas/`
@@ -59,7 +61,13 @@
 * `https://p5js.org/reference/#/p5/noise`
 
 ### Week-3
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+`Ik ben gaan kijken wat ik kan toevoegen aan een user input en het leek mij vet om iets met geluid te doen. Dit is geinspireerd nadat ik feedback heb gekregen`
+
+`Ik heb deze link bekeken om wat inspiratie op te zoeken om iets met de microfoon te doen of door muziek https://editor.p5js.org/Ruyi_Chen/sketches/H1UJM_0nQ`
+
+`Het lijkt mij cool om muziek te importeren en dat mijn visualisatie veranderd in zijn vormen`
+
+`User input coderen ging lastig want elke keer als ik met of een slider te werk ging of de microfoon werkte de code niet meer. Ik moest dus een keuze maken dat paste bij mijn skill level en heb ik met keypressed gewerkt om de achtergrond te veranderen plus de visualisatie. De gebruiker kan er mee spelen en het op slaan op zijn device`
 
 
 ## Bronnenlijst
