@@ -69,6 +69,10 @@
 
 `User input coderen ging lastig want elke keer als ik met of een slider te werk ging of de microfoon werkte de code niet meer. Ik moest dus een keuze maken dat paste bij mijn skill level en heb ik met keypressed gewerkt om de achtergrond te veranderen plus de visualisatie. De gebruiker kan er mee spelen en het op slaan op zijn device`
 
+### Herkansing
+
+`Voor de herkansing heb ik een nieuwe user interactie toegevoegd. Alle elementen zijn nog random, maar wanneer de user met zijn muis hovert om de afbeelding heen veranderen de kleuren van het kunstwerk. Als alles gewenst is kunt die door te klikken opslaan`
+
 
 ## Bronnenlijst
 
